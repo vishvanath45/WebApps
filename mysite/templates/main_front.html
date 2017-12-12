@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Image-Recogniser</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
+
+<body>
+<header class="navbar navbar-default">
+  <span class="navbar-text"> Mr. Modi and Mr. Kejriwal recognizer made by
+      <a href="https://vishvanath45.github.io">Vishva nath dutt sharma</a>
+  </span>
+</header>
+<p> <h4> Project Implemented for Submission to PreCog Summer Internship Application</h4></p>
+<p> <h4> <a href = "https://github.com/vishvanath45/Precog_Project"> Repository on Github </a></h4></p>
+<p>
+1.<em> Kindly upload image in .jpg format only.</em><br/>
+2.<em> First Browse the image, then click Upload</em><br/>
+<br/>
+</p>
+
+
+<form action="/upload" method="post" enctype="multipart/form-data" >
+    <label class="btn btn-default btn-file">
+        Browse <input <input type="file" name="image" style="display: none;">
+    </label>
+    <input type="submit" value="Upload your image" class="btn btn-primary">
+</form>
+
+<!-- <div class="text-center">
+    {% if init %}
+        {% if modi %}
+            <div class="alert alert-danger" style="margin-top:18px;">
+                <strong>MSG</strong> Your image contain Narendra Modi !
+            </div>
+        {% else %}
+            <div class="alert alert-success" style="margin-top:18px;">
+                <strong>MSG</strong> Your image does not contains Narendra Modi !
+            </div>
+        {% endif %}
+
+        {% if ak %}
+            <div class="alert alert-danger" style="margin-top:18px;">
+                <strong>MSG</strong> Your image contain Arvind Kejriwal !
+            </div>
+        {% else %}
+            <div class="alert alert-success" style="margin-top:18px;">
+                <strong>MSG</strong> Your image do not contain Arvind Kejriwal !
+            </div>
+        {% endif %}
+
+        {% if person %}
+            <div class="alert alert-danger" style="margin-top:18px;">
+                <strong>MSG</strong> Your image contains face of person !
+            </div>
+        {% else %}
+            <div class="alert alert-success" style="margin-top:18px;">
+                <strong>MSG</strong> Your image do not contain Any person !
+            </div>
+        {% endif %}
+    {% endif %}
+</div>
+<img src="{{ local_img_add }}" alt="found face"> -->
+<!--<div class="text-center">-->
+<!--    {% if init %}-->
+<!--        {% if ak %}-->
+<!--            <div class="alert alert-danger" style="margin-top:18px;">-->
+<!--                <strong>MSG</strong> Your image does not contain Arvind Kejriwal !-->
+<!--            </div>-->
+<!--        {% else %}-->
+<!--            <div class="alert alert-success" style="margin-top:18px;">-->
+<!--                <strong>MSG</strong> Your image contains Arvind Kejriwal !-->
+<!--            </div>-->
+<!--        {% endif %}-->
+<!--    {% endif %}-->
+<!--</div>-->
+<!--<div class="text-center">-->
+    <!--{% if init %}-->
+        <!--{% if person %}-->
+        <!--    <div class="alert alert-danger" style="margin-top:18px;">-->
+        <!--        <strong>MSG</strong> Your image does not contains face of person !-->
+        <!--    </div>-->
+        <!--{% else %}-->
+        <!--    <div class="alert alert-success" style="margin-top:18px;">-->
+        <!--        <strong>MSG</strong> Your image contains Any person !-->
+        <!--    </div>-->
+        <!--{% endif %}-->
+    <!--{% endif %}-->
+<!--</div>-->
+</body>
+</html>
