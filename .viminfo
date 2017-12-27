@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1513094332,,"wq"
+|2,0,1513590500,,"wq"
 :q
 |2,0,1513056838,,"q"
 :q!
@@ -45,36 +45,52 @@ $
 |3,1,36,0,1,0,1513027564," "
 
 # File marks:
-'0  30  48  ~/mysite/templates/main_page.html
-|4,48,30,48,1513094332,"~/mysite/templates/main_page.html"
-'1  99  6  ~/mysite2/templates/main_page.html
-|4,49,99,6,1513080670,"~/mysite2/templates/main_page.html"
-'2  16  102  ~/mysite2/templates/main_front.html
-|4,50,16,102,1513080209,"~/mysite2/templates/main_front.html"
-'3  1  40  ~/.gitignore
-|4,51,1,40,1513079834,"~/.gitignore"
-'4  15  91  ~/mysite2/templates/main_page.html
-|4,52,15,91,1513057745,"~/mysite2/templates/main_page.html"
+'0  69  97  ~/mysite/server.py
+|4,48,69,97,1513590500,"~/mysite/server.py"
+'1  30  48  ~/mysite/templates/main_page.html
+|4,49,30,48,1513094332,"~/mysite/templates/main_page.html"
+'2  99  6  ~/mysite2/templates/main_page.html
+|4,50,99,6,1513080670,"~/mysite2/templates/main_page.html"
+'3  16  102  ~/mysite2/templates/main_front.html
+|4,51,16,102,1513080209,"~/mysite2/templates/main_front.html"
+'4  1  40  ~/.gitignore
+|4,52,1,40,1513079834,"~/.gitignore"
 '5  15  91  ~/mysite2/templates/main_page.html
 |4,53,15,91,1513057745,"~/mysite2/templates/main_page.html"
-'6  16  87  ~/mysite2/templates/main_front.html
-|4,54,16,87,1513057726,"~/mysite2/templates/main_front.html"
-'7  16  87  ~/mysite2/templates/main_page.html
-|4,55,16,87,1513057310,"~/mysite2/templates/main_page.html"
+'6  15  91  ~/mysite2/templates/main_page.html
+|4,54,15,91,1513057745,"~/mysite2/templates/main_page.html"
+'7  16  87  ~/mysite2/templates/main_front.html
+|4,55,16,87,1513057726,"~/mysite2/templates/main_front.html"
 '8  16  87  ~/mysite2/templates/main_page.html
 |4,56,16,87,1513057310,"~/mysite2/templates/main_page.html"
 '9  16  87  ~/mysite2/templates/main_page.html
 |4,57,16,87,1513057310,"~/mysite2/templates/main_page.html"
 
 # Jumplist (newest first):
+-'  69  97  ~/mysite/server.py
+|4,39,69,97,1513590500,"~/mysite/server.py"
+-'  1  0  ~/mysite/server.py
+|4,39,1,0,1513590466,"~/mysite/server.py"
 -'  30  48  ~/mysite/templates/main_page.html
 |4,39,30,48,1513094332,"~/mysite/templates/main_page.html"
+-'  30  48  ~/mysite/templates/main_page.html
+|4,39,30,48,1513094332,"~/mysite/templates/main_page.html"
+-'  1  0  ~/mysite/templates/main_page.html
+|4,39,1,0,1513094157,"~/mysite/templates/main_page.html"
 -'  1  0  ~/mysite/templates/main_page.html
 |4,39,1,0,1513094157,"~/mysite/templates/main_page.html"
 -'  99  6  ~/mysite2/templates/main_page.html
 |4,39,99,6,1513080670,"~/mysite2/templates/main_page.html"
 -'  99  6  ~/mysite2/templates/main_page.html
 |4,39,99,6,1513080670,"~/mysite2/templates/main_page.html"
+-'  99  6  ~/mysite2/templates/main_page.html
+|4,39,99,6,1513080670,"~/mysite2/templates/main_page.html"
+-'  99  6  ~/mysite2/templates/main_page.html
+|4,39,99,6,1513080670,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513080217,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513080217,"~/mysite2/templates/main_page.html"
 -'  15  91  ~/mysite2/templates/main_page.html
 |4,39,15,91,1513080217,"~/mysite2/templates/main_page.html"
 -'  15  91  ~/mysite2/templates/main_page.html
@@ -87,6 +103,14 @@ $
 |4,39,16,102,1513080209,"~/mysite2/templates/main_front.html"
 -'  16  102  ~/mysite2/templates/main_front.html
 |4,39,16,102,1513080209,"~/mysite2/templates/main_front.html"
+-'  16  102  ~/mysite2/templates/main_front.html
+|4,39,16,102,1513080209,"~/mysite2/templates/main_front.html"
+-'  16  102  ~/mysite2/templates/main_front.html
+|4,39,16,102,1513080209,"~/mysite2/templates/main_front.html"
+-'  16  102  ~/mysite2/templates/main_front.html
+|4,39,16,102,1513080209,"~/mysite2/templates/main_front.html"
+-'  16  102  ~/mysite2/templates/main_front.html
+|4,39,16,102,1513080209,"~/mysite2/templates/main_front.html"
 -'  1  40  ~/.gitignore
 |4,39,1,40,1513079834,"~/.gitignore"
 -'  1  40  ~/.gitignore
@@ -103,6 +127,38 @@ $
 |4,39,1,40,1513079834,"~/.gitignore"
 -'  1  40  ~/.gitignore
 |4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  1  40  ~/.gitignore
+|4,39,1,40,1513079834,"~/.gitignore"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
+-'  15  91  ~/mysite2/templates/main_page.html
+|4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
 -'  15  91  ~/mysite2/templates/main_page.html
 |4,39,15,91,1513057745,"~/mysite2/templates/main_page.html"
 -'  15  91  ~/mysite2/templates/main_page.html
@@ -139,6 +195,26 @@ $
 |4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
 -'  16  87  ~/mysite2/templates/main_page.html
 |4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_page.html
+|4,39,16,87,1513057731,"~/mysite2/templates/main_page.html"
 -'  16  87  ~/mysite2/templates/main_front.html
 |4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
 -'  16  87  ~/mysite2/templates/main_front.html
@@ -171,104 +247,35 @@ $
 |4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
 -'  16  87  ~/mysite2/templates/main_front.html
 |4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
--'  21  3  ~/mysite2/templates/main_front.html
-|4,39,21,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  21  3  ~/mysite2/templates/main_front.html
-|4,39,21,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  21  3  ~/mysite2/templates/main_front.html
-|4,39,21,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  21  3  ~/mysite2/templates/main_front.html
-|4,39,21,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  20  3  ~/mysite2/templates/main_front.html
-|4,39,20,3,1513057320,"~/mysite2/templates/main_front.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  16  87  ~/mysite2/templates/main_page.html
-|4,39,16,87,1513057310,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
--'  97  6  ~/mysite2/templates/main_page.html
-|4,39,97,6,1513057235,"~/mysite2/templates/main_page.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
+-'  16  87  ~/mysite2/templates/main_front.html
+|4,39,16,87,1513057726,"~/mysite2/templates/main_front.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/mysite/server.py
+	*	1513590497	0
+	"	69	97
+	^	69	98
+	.	69	97
+	+	69	97
 
 > ~/mysite/templates/main_page.html
 	*	1513094327	0

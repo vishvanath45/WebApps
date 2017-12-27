@@ -66,7 +66,7 @@ def upload_file():
        color2 = random.randint(0,255)
        color3 = random.randint(0,255)
 
-       cv2.rectangle(draw_image,(d.left(),d.top()),(d.right(),d.bottom()),(color1,color2,color3),1)
+       cv2.rectangle(draw_image,(d.left(),d.top()),(d.right(),d.bottom()),(color1,color2,color3),5)
 
        image = io.imread(file_name)
 

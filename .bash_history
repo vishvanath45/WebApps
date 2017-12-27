@@ -389,3 +389,30 @@ cd static/
 ls
 python
 clear
+ls
+git status
+cd mysite
+git status
+cd ..
+git status
+git add .
+git commit -m "bug fixes"
+git push
+cd mysite
+ls
+python server.py 
+vi server.py 
+cd static/
+ls
+rm *.jpg
+y
+ls
+rm *.jpg
+ls
+cd ..
+exit
+screen -r running_server 
+exit
+ls
+screen -r running_server 
+exit
