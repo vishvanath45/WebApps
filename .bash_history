@@ -416,3 +416,40 @@ exit
 ls
 screen -r running_server 
 exit
+ls
+cd mysite
+ls
+cd ..
+\git status
+git add .
+ls
+git status
+git commit -m "updated"
+cat .gitignore 
+ls -A
+vi .gitignore 
+git status
+git add .
+git commit -m "modified .gitignore"
+git push
+screen -r running_server 
+exit
+ls
+cd mysite
+ls
+cd static/
+ls
+cd ..
+ls
+cd images/
+ls
+display initial.jpg 
+exit
+ls
+cd mysite
+ls
+cd static/
+ls
+cd ..
+screen -r running_server 
+exit
